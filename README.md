@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Kunal
+### Hello there! 👋, my name is Kunal
 #### I am pre final year student at NIT Warangal, IN
 
 Skills: C++ | Python | MATLAB | SQL | Arduino | Data Structures and Algorithms
 
-Other Interest: Astronomy ❤️ | Graphic Designing
+I ❤️ Astronomy
 
 💼 Looking for new opportunities 
 
