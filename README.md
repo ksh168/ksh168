@@ -1,7 +1,7 @@
 ### Hello there! 👋, my name is Kunal
 #### I am final year undergrad student at NIT Warangal, IN
 
-Skills: C++ | Python | MATLAB | SQL | Arduino | PowerBI |
+Skills: C++ | Python | MATLAB | SQL | Arduino | PowerBI | "\n"
         Data Structures and Algorithms | Machine Learning | Data Science
 
 I ❤️ Astronomy
