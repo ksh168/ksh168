@@ -3,7 +3,7 @@
 
 ### Skills: 
 C++ | Python | MATLAB | SQL | Arduino | PowerBI |
-Data Structures and Algorithms | Machine Learning | Data Science
+Data Structures and Algorithms | DBMS | Machine Learning | Data Science
 
 
 I ❤️ Astronomy
