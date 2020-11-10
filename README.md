@@ -1,4 +1,4 @@
-### Hello there! 👋, my name is Kunal
+### Hello there! 👋, myself Kunal
 #### I am final year undergrad student at NIT Warangal, IN
 
 ### Skills: 
