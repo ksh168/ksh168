@@ -1,9 +1,15 @@
 ### Hello there! 👋, myself Kunal
 #### I am final year undergrad student at NIT Warangal, IN
 
-### Skills: 
-C++ | Python | MATLAB | SQL | Arduino | PowerBI |  
-Data Structures and Algorithms | DBMS | Machine Learning | Data Science  
+#### TECHNICAL SKILLS  
+C++ | Python | MATLAB | MySQL | PowerBI | Arduino  
+  
+#### COURSEWORK  
+Data Structures | OOPs-C++ | DBMS | Machine Learning  
+  
+#### OTHER INTERESTS
+Astronomy | Graphic Designing
+
  
 
 💼 Looking for new opportunities  
