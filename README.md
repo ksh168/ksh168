@@ -1,5 +1,5 @@
 ### Hello there! 👋, myself Kunal
-#### I am final year undergrad student at NIT Warangal, IN
+#### I'm a B.Tech EEE 2021 graduate from National Institute of Technology Warangal (NITW), India
 
 #### TECHNICAL SKILLS  
 C++ | Python | MATLAB | MySQL | PowerBI | Arduino  
