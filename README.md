@@ -1,9 +1,9 @@
 ### Hello there! 👋, myself Kunal
-#### I work as a Software Developer.
-#### I am a B. Tech EEE 2021 graduate from National Institute of Technology Warangal (NITW), India
+#### I am a Software Developer.
+#### I did my undergrad B. Tech in Electrical and Electronics Engineering in 2021 from National Institute of Technology Warangal (NITW), India
 
 #### TECHNICAL SKILLS  
-C++ | Python | JavaScript | MATLAB | MySQL | PowerBI | Arduino
+C++ | Python | JavaScript | NodeJS | MATLAB | MySQL | PowerBI | Arduino
   
 #### COURSEWORK  
 Data Structures | OOPs-C++ | DBMS | Machine Learning  
