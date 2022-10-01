@@ -1,15 +1,15 @@
 ### Hello there! 👋, myself Kunal
-#### I am a Software Developer.
-#### I did my undergrad B. Tech in Electrical and Electronics Engineering in 2021 from National Institute of Technology Warangal (NITW), India
+#### I work as a SDE
+#### I completed my undergrad B. Tech in Electrical and Electronics Engineering, 2021 from National Institute of Technology Warangal (NITW), India
 
 #### TECHNICAL SKILLS  
-C++ | Python | JavaScript | NodeJS | MATLAB | MySQL | PowerBI | Arduino
+C++ | Python | JavaScript | NodeJS | NestJS | TypeScript | MATLAB
   
 #### COURSEWORK  
-Data Structures | OOPs-C++ | DBMS | Machine Learning  
+Data Structures | Object Oriented Programming | DBMS | Machine Learning  
   
-#### OTHER INTERESTS
-Astronomy | Graphic Designing
+#### MY HOBBIES
+Astronomy | Star Gazing | Graphic Designing
 
  
 
