@@ -1,9 +1,9 @@
 ### Hello there! 👋, myself Kunal
-#### I work as a SDE
+#### I am a Software Developer
 #### I completed my undergrad B. Tech in Electrical and Electronics Engineering, 2021 from National Institute of Technology Warangal (NITW), India
 
 #### TECHNICAL SKILLS  
-C++ | Python | JavaScript | NodeJS | NestJS | TypeScript | MATLAB
+C++ | Python | JavaScript | NodeJS | NestJS | TypeScript | Airflow | PySpark
   
 #### COURSEWORK  
 Data Structures | Object Oriented Programming | DBMS | Machine Learning  
