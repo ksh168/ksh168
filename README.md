@@ -1,5 +1,5 @@
 ### Hello there! 👋, myself Kunal
-#### I am a Software Developer
+#### I am a Software Engineer
 #### I completed my undergrad B. Tech in Electrical and Electronics Engineering, 2021 from National Institute of Technology Warangal (NITW), India
 
 #### TECHNICAL SKILLS  
